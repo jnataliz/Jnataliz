@@ -47,8 +47,8 @@ Sono un **Salesforce Marketing Cloud Developer** con una solida esperienza nella
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/jnataliz/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jnataliz&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/jnataliz/cloud-security-roadmap">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jnataliz&repo=Acloud-security-roadmap&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="cloud-security-roadmap" />
         </a>
       </p>
     </td>
