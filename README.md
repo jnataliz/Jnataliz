@@ -1,14 +1,30 @@
-# Ciao! 👋 Sono Jacopo, Salesforce Marketing Cloud Developer ![42 Badge](https://img.shields.io/badge/42-fff?logo=42&logoColor=000&style=for-the-badge)
+# 👋 Hi there! I'm Jacopo – Salesforce Marketing Cloud Developer ![42 Badge](https://img.shields.io/badge/42-fff?logo=42&logoColor=000&style=for-the-badge)
 
-Sono un **Salesforce Marketing Cloud Developer** con una solida esperienza nella progettazione e implementazione di **processi di automazione di marketing omnicanale** integrati con il CRM Salesforce. 🚀
+<p align="center">
+  I'm a Salesforce Marketing Cloud Developer with solid experience in designing and implementing <strong>omnichannel marketing automation</strong> processes integrated with the <strong>Salesforce CRM</strong>. 🚀
+</p>
 
-## 🛠️ Competenze principali
+## <h4 align="center">🛠️ Core Skills</h4>
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-MarketingCloud-blue?style=flat-square&logo=salesforce)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=flat-square&logo=sql)
 ![SSJS](https://img.shields.io/badge/SSJS-Advanced-blue?style=flat-square&logo=javascript)
 ![APIs](https://img.shields.io/badge/APIs-Integration-orange?style=flat-square&logo=api)
 ![Agile](https://img.shields.io/badge/Agile-Methodology-green?style=flat-square&logo=agile)
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   38 hrs 29 mins  ██████████████████████░░░   87.44 %
+Python       2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+JSON         1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Other        51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Bash         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+```
+
+<!--END_SECTION:waka-->
+
 
 
 
