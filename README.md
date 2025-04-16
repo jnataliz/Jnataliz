@@ -30,27 +30,14 @@ Sono un **Salesforce Marketing Cloud Developer** con una solida esperienza nella
     <img src="https://github-readme-stats.vercel.app/api?username=jnataliz&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
 </p>
-
 ---
-
-<h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-<p align="center">
-  <a href="https://github.com/jnataliz">
-    <img src="https://streak-stats.demolab.com?user=jnataliz&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-  </a>
-</p>
-
----
-
 <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
 <p align="center">
   <a href="https://github.com/jnataliz/cloud-security-roadmap">
     <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jnataliz&repo=cloud-security-roadmap&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="cloud-security-roadmap" />
   </a>
 </p>
-
 ---
-
 <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
 <p align="center">
   <a href="https://github.com/jnataliz">
