@@ -38,6 +38,9 @@ Attualmente collaboro a un **progetto internazionale nel settore Pharma**, dove 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnataliz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jnataliz&theme=dracula&column=7" alt="jnataliz" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jnataliz&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="jnataliz" width="50%" /></p>
+
 ---
 
 ## 📫 Come contattarmi
