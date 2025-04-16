@@ -5,28 +5,12 @@
 </p>
 
 ## <h4 align="center">🛠️ Core Skills</h4>
-
+![Salesforce Badge](https://img.shields.io/badge/Salesforce-MarketingCloud-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge)
 ![Salesforce](https://img.shields.io/badge/Salesforce-MarketingCloud-blue?style=flat-square&logo=salesforce)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=flat-square&logo=sql)
 ![SSJS](https://img.shields.io/badge/SSJS-Advanced-blue?style=flat-square&logo=javascript)
 ![APIs](https://img.shields.io/badge/APIs-Integration-orange?style=flat-square&logo=api)
 ![Agile](https://img.shields.io/badge/Agile-Methodology-green?style=flat-square&logo=agile)
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   38 hrs 29 mins  ██████████████████████░░░   87.44 %
-Python       2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-JSON         1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Other        51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Bash         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-```
-
-<!--END_SECTION:waka-->
-
-
-
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
