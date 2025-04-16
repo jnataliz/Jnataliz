@@ -4,12 +4,38 @@
   I'm a Salesforce Marketing Cloud Developer with solid experience in designing and implementing <strong>omnichannel marketing automation</strong> processes integrated with the <strong>Salesforce CRM</strong>. 🚀
 </p>
 
-## <h4 align="center">🛠️ Core Skills</h4>
-![Salesforce Badge](https://img.shields.io/badge/Salesforce-MarketingCloud-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?logo=sqlite&logoColor=white&style=for-the-badge)
-![SSJS](https://img.shields.io/badge/SSJS-Advanced-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![APIs](https://img.shields.io/badge/API-Integration-ff8c00?logo=cloudflare&logoColor=white&style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-Methodology-28a745?logo=scrumalliance&logoColor=white&style=for-the-badge)
+---
+
+<h3 align="center"><strong>🧰 Tech Stack & Tools</strong></h3>
+
+<h4 align="center"><strong>💻 Languages & Scripting</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/SSJS-Advanced-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="SSJS" />
+  <img src="https://img.shields.io/badge/AMPscript-Scripting-009CDE?logo=salesforce&logoColor=white&style=for-the-badge" alt="AMPscript" />
+  <img src="https://img.shields.io/badge/C-Language-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt="C Language" />
+</p>
+
+<h4 align="center"><strong>🔧 Tools & Platforms</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-API-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jira-ProjectManagement-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="Jira" />
+  <img src="https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/VSCode-Editor-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code" />
+</p>
+
+<h4 align="center"><strong>☁️ Cloud & CRM</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-MarketingCloud-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge" alt="Salesforce Marketing Cloud" />
+  <img src="https://img.shields.io/badge/API-Integration-ff8c00?logo=cloudflare&logoColor=white&style=for-the-badge" alt="API Integration" />
+</p>
+
+<h4 align="center"><strong>⚙️ Methodologies</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-Methodology-28a745?logo=scrumalliance&logoColor=white&style=for-the-badge" alt="Agile Methodology" />
+</p>
+
+---
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
