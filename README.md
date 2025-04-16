@@ -5,7 +5,7 @@
 </p>
 
 ## <h4 align="center">🛠️ Core Skills</h4>
-![Salesforce Badge](https://img.shields.io/badge/Salesforce-MarketingCloud-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge)
+![Salesforce Badge](https://img.shields.io/badge/Salesforce-MarketingCloud?logo=salesforce&logoColor=fff&style=for-the-badge)
 ![Salesforce](https://img.shields.io/badge/Salesforce-MarketingCloud-blue?style=flat-square&logo=salesforce)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=flat-square&logo=sql)
 ![SSJS](https://img.shields.io/badge/SSJS-Advanced-blue?style=flat-square&logo=javascript)
