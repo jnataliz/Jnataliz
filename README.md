@@ -10,10 +10,7 @@ Sono un **Salesforce Marketing Cloud Developer** con una solida esperienza nella
 ![APIs](https://img.shields.io/badge/APIs-Integration-orange?style=flat-square&logo=api)
 ![Agile](https://img.shields.io/badge/Agile-Methodology-green?style=flat-square&logo=agile)
 
-## 🏅 Statistiche GitHub
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jnataliz&theme=dracula&column=4" alt="jnataliz" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jnataliz&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="jnataliz" width="50%" /></p>
+--
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
