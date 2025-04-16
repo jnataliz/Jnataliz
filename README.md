@@ -5,12 +5,11 @@
 </p>
 
 ## <h4 align="center">🛠️ Core Skills</h4>
-![Salesforce Badge](https://img.shields.io/badge/Salesforce-MarketingCloud?logo=salesforce&logoColor=fff&style=for-the-badge)
-![Salesforce](https://img.shields.io/badge/Salesforce-MarketingCloud-blue?style=flat-square&logo=salesforce)
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=flat-square&logo=sql)
-![SSJS](https://img.shields.io/badge/SSJS-Advanced-blue?style=flat-square&logo=javascript)
-![APIs](https://img.shields.io/badge/APIs-Integration-orange?style=flat-square&logo=api)
-![Agile](https://img.shields.io/badge/Agile-Methodology-green?style=flat-square&logo=agile)
+![Salesforce Badge](https://img.shields.io/badge/Salesforce-MarketingCloud-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?logo=sqlite&logoColor=white&style=for-the-badge)
+![SSJS](https://img.shields.io/badge/SSJS-Advanced-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![APIs](https://img.shields.io/badge/API-Integration-ff8c00?logo=cloudflare&logoColor=white&style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-Methodology-28a745?logo=scrumalliance&logoColor=white&style=for-the-badge)
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
