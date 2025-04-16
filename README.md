@@ -1,4 +1,4 @@
-# Ciao! 👋 Sono Jacopo, Salesforce Marketing Cloud Developer
+# Ciao! 👋 Sono Jacopo, Salesforce Marketing Cloud Developer ![42 Badge](https://img.shields.io/badge/42-fff?logo=42&logoColor=000&style=for-the-badge)
 
 Sono un **Salesforce Marketing Cloud Developer** con una solida esperienza nella progettazione e implementazione di **processi di automazione di marketing omnicanale** integrati con il CRM Salesforce. 🚀
 
