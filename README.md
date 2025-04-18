@@ -27,8 +27,8 @@
 
 <h4 align="center"><strong>☁️ Cloud & CRM</strong></h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-MarketingCloud-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge" alt="Salesforce Marketing Cloud" />
-  <img src="https://img.shields.io/badge/Salesforce-AccountEngagement-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge" alt="Salesforce Account Engagement" />
+  <img src="https://img.shields.io/badge/Salesforce-Marketing Cloud-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge" alt="Salesforce Marketing Cloud" />
+  <img src="https://img.shields.io/badge/Salesforce-Account Engagement-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge" alt="Salesforce Account Engagement" />
   <img src="https://img.shields.io/badge/API-Integration-ff8c00?logo=cloudflare&logoColor=white&style=for-the-badge" alt="API Integration" />
 </p>
 
