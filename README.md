@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Jira-ProjectManagement-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="Jira" />
   <img src="https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
   <img src="https://img.shields.io/badge/VSCode-Editor-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code" />
-    <img src="https://img.shields.io/badge/API-Integration-ff8c00?logo=cloudflare&logoColor=white&style=for-the-badge" alt="API Integration" />
 </p>
 
 <h4 align="center"><strong>☁️ Cloud & CRM</strong></h4>
